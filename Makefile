@@ -1,0 +1,3 @@
+build:
+	go build -o ./sebastian cmd/sebastian/main.go
+	go install ./...
